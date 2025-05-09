@@ -18,7 +18,7 @@ To support the interpretation of the IR Score, we classify students using the RT
   - Tier 2: Targeted small-group, in-class interventions for students who are at moderate risk of falling behind.
   - Tier 3: Intensive, individualized interventions for students identified as high risk.
 
-*We also define a "Tier 2 Watchlist" to flag students who are trending toward Tier 2 but haven’t crossed the intervention threshold yet to serve as an early warning system for teachers to implement low-cost actions like teacher/parent conversations, or extra attention.*
+*There is also a "Tier 2 Watchlist" to flag students who are trending toward Tier 2 but haven’t crossed the intervention threshold yet to serve as an early warning system for teachers to implement low-cost actions like teacher/parent conversations, or extra attention.*
 
 By mapping IR scores to RTI tier categories using z-score thresholds, this model allows educators to prioritize intervention efforts more effectively and proactively.
 
