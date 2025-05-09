@@ -1,10 +1,10 @@
 # Student Intervention Risk Prediction
 
-This project explores the use of machine learning models to predict **Intervention Risk (IR)** scores for students based on academic performance, participation, and other engagement indicators. The goal is to assist educators in identifying students who may require additional support — even those who are trying hard but still barely getting by.
+This project explores the use of machine learning models to predict **Intervention Risk (IR)** scores for students based on academic performance, participation, and other engagement indicators. The goal is to assist educators in identifying students who may require additional support, even those who are trying hard but still barely getting by.
 
 ## Project Overview
 
-We developed and evaluated classification models to:
+Classification models were developed in order to:
 - Predict student Intervention Risk according to the Response to Intervention (RTI) Tier system
 - Calculate a custom **Intervention Risk Score** using weighted academic and behavioral data
 - Categorize RTI_Categories based on z-score thresholds. 
@@ -69,4 +69,3 @@ By mapping IR scores to RTI tier categories using z-score thresholds, this model
 - scikit-learn
 - matplotlib, seaborn
 - Jupyter Notebooks
-- 
